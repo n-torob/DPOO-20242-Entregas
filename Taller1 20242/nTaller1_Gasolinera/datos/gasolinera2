@@ -1,0 +1,13 @@
+tipo:Corriente1:15500:10000.0
+tipo:Corriente2:16000:100000.0
+tipo:Extra2:21500:1800.0
+tipo:Extra1:19000:10000.0
+surtidor:Alberto:Corriente1:0.0:Corriente2:0.0:Extra2:0.0:Extra1:0.0
+surtidor:Alberto:Corriente1:0.0:Corriente2:0.0:Extra2:0.0:Extra1:0.0
+surtidor:Diego:Corriente1:0.0:Corriente2:0.0:Extra2:0.0:Extra1:0.0
+surtidor:Jorge:Corriente1:0.0:Corriente2:0.0:Extra2:0.0:Extra1:0.0
+empleado:Edwin:0
+empleado:Diego:0
+empleado:Alberto:0
+empleado:Jorge:0
+empleado:Daniela:0
